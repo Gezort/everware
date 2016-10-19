@@ -1,2 +1,2 @@
 # everware
-Repository with docker configs. Look more at [everware page](https://everware.xyz)
+Repository with docker configs. Learn more at [everware page](http://everware.xyz)
